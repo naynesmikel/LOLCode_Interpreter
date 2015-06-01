@@ -1,0 +1,28 @@
+C:\Users\HP Pavilion\Documents\visual studio 2010\Projects\LOLCODE Interpreter\LOLCODE Interpreter\bin\Debug\LOLCODE Interpreter.exe
+C:\Users\HP Pavilion\Documents\visual studio 2010\Projects\LOLCODE Interpreter\LOLCODE Interpreter\bin\Debug\LOLCODE Interpreter.pdb
+C:\Users\HP Pavilion\Documents\visual studio 2010\Projects\LOLCODE Interpreter\LOLCODE Interpreter\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\HP Pavilion\Documents\visual studio 2010\Projects\LOLCODE Interpreter\LOLCODE Interpreter\obj\x86\Debug\LOLCODE Interpreter.csproj.GenerateResource.Cache
+C:\Users\HP Pavilion\Documents\visual studio 2010\Projects\LOLCODE Interpreter\LOLCODE Interpreter\obj\x86\Debug\LOLCODE Interpreter.exe
+C:\Users\HP Pavilion\Documents\visual studio 2010\Projects\LOLCODE Interpreter\LOLCODE Interpreter\obj\x86\Debug\LOLCODE Interpreter.pdb
+C:\Users\HP Pavilion\Documents\visual studio 2010\Projects\LOLCODE Interpreter\LOLCODE Interpreter\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\HP Pavilion\Documents\visual studio 2010\Projects\LOLCODE Interpreter\LOLCODE Interpreter\obj\x86\Debug\LOLCODE Interpreter.csprojResolveAssemblyReference.cache
+D:\LOLCODE Interpreter\LOLCODE Interpreter\obj\x86\Debug\LOLCODE Interpreter.exe
+D:\LOLCODE Interpreter\LOLCODE Interpreter\obj\x86\Debug\LOLCODE Interpreter.pdb
+D:\LOLCODE Interpreter\LOLCODE Interpreter\bin\Debug\LOLCODE Interpreter.exe
+D:\LOLCODE Interpreter\LOLCODE Interpreter\bin\Debug\LOLCODE Interpreter.pdb
+D:\LOLCODE Interpreter\LOLCODE Interpreter\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\LOLCODE Interpreter\LOLCODE Interpreter\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+D:\LOLCODE Interpreter\LOLCODE Interpreter\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\LOLCODE Interpreter\LOLCODE Interpreter\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\LOLCODE Interpreter\LOLCODE Interpreter\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\ \LOLCODE Interpreter\LOLCODE Interpreter\obj\x86\Debug\LOLCODE Interpreter.exe
+D:\ \LOLCODE Interpreter\LOLCODE Interpreter\obj\x86\Debug\LOLCODE Interpreter.pdb
+D:\ \LOLCODE Interpreter\LOLCODE Interpreter\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\ \LOLCODE Interpreter\LOLCODE Interpreter\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\ \LOLCODE Interpreter\LOLCODE Interpreter\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\ \LOLCODE Interpreter\LOLCODE Interpreter\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\LOLCODE Interpreter\LOLCODE Interpreter\obj\x86\Debug\LOLCODE Interpreter.exe
+F:\LOLCODE Interpreter\LOLCODE Interpreter\obj\x86\Debug\LOLCODE Interpreter.pdb
+F:\LOLCODE Interpreter\LOLCODE Interpreter\obj\x86\Debug\LOLCODE Interpreter.csprojResolveAssemblyReference.cache
+F:\LOLCODE Interpreter\LOLCODE Interpreter\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+F:\LOLCODE Interpreter\LOLCODE Interpreter\obj\x86\Debug\LOLCODE Interpreter.csproj.GenerateResource.Cache
